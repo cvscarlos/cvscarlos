@@ -4,11 +4,11 @@ Maybe you are interested in knowing more about what I'm sharing here on GitHub, 
 
 It's a bit more organized than just browsing on the Repositories page 😄
 
-## For fun projects
+## For fun projects 🎮
 
 - [iCloud-Album-Downloader](/cvscarlos/iCloud-Album-Downloader) A web app for downloading photos from public shared iCloud albums.
 
-## Open Source for [VTEX](https://vtex.com/) Plataform
+## Open Source for [VTEX](https://vtex.com/) Plataform 🛍️
 
 A few years ago, while working in the VTEX environment, I open-sourced some plugins that we used during our development process.
 
