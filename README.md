@@ -4,11 +4,13 @@ Maybe you are interested in knowing more about what I'm sharing here on GitHub, 
 
 It's a bit more organized than just browsing on the Repositories page 😄
 
-## For fun projects 🎮
+## Projects for fun
 
-- [iCloud-Album-Downloader](/cvscarlos/iCloud-Album-Downloader) A web app for downloading photos from public shared iCloud albums.
+- [iCloud-Album-Downloader](/cvscarlos/iCloud-Album-Downloader): a web app for downloading photos from public shared iCloud albums;
+- [VakaPHP](https://github.com/cvscarlos/VaKaPHP): a long time ago, I decided to create my own PHP framework;
+- [jQuery-Keyboard-Code](https://github.com/cvscarlos/jQuery-Keyboard-Code): a jQuery plugin that calls a function when the Konami Code is typed or any other set key sequence;
 
-## Open Source for [VTEX](https://vtex.com/) Plataform 🛍️
+## Open Source for [VTEX](https://vtex.com/) Plataform
 
 A few years ago, while working in the VTEX environment, I open-sourced some plugins that we used during our development process.
 
