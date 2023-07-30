@@ -4,6 +4,9 @@ Maybe you are interested in knowing more about what I'm sharing here on GitHub, 
 
 It's a bit more organized than just browsing on the Repositories page 😄
 
+## Current project
+ - [Leitor De Notas](https://github.com/cvscarlos/Leitor-De-Notas): the interface of a web app that reads and displays data from brokerage notes of the stock market.
+
 ## Projects for fun
 
 - [iCloud Album Downloader](https://github.com/cvscarlos/iCloud-Album-Downloader): a web app for downloading photos from public shared iCloud albums;
@@ -13,6 +16,7 @@ It's a bit more organized than just browsing on the Repositories page 😄
 
 ## Open Source contributions
 
+- [youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery/pull/211): added support for Arrays in an object deep extend/clone method for ES5;
 - [easyselectbox](https://github.com/kosinix/easyselectbox/pull/1): added support for a callback function triggered on "change" event in selectbox HTML element;
 - [lz string php](https://github.com/nullpunkt/lz-string-php/pull/21): fixed the call for a class static method on PHP 5.3.
 
