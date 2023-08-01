@@ -18,7 +18,9 @@ It's a bit more organized than just browsing on the Repositories page 😄
 
 - [youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery/pull/211): added support for Arrays in an object deep extend/clone method for ES5;
 - [easyselectbox](https://github.com/kosinix/easyselectbox/pull/1): added support for a callback function triggered on "change" event in selectbox HTML element;
-- [lz string php](https://github.com/nullpunkt/lz-string-php/pull/21): fixed the call for a class static method on PHP 5.3.
+- [lz string php](https://github.com/nullpunkt/lz-string-php/pull/21): fixed the call for a class static method on PHP 5.3;
+- [eslint-config](https://github.com/parcelLab/eslint-config): helped to create ESLint rules for both TypeScript and JavaScript.
+
 
 ## Open Source for [VTEX](https://vtex.com/) Plataform 🛍️
 
