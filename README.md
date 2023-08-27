@@ -5,7 +5,8 @@ Maybe you are interested in knowing more about what I'm sharing here on GitHub, 
 It's a bit more organized than just browsing on the Repositories page 😄
 
 ## Current project 🚀
- - [Leitor De Notas](https://github.com/cvscarlos/Leitor-De-Notas): the interface of a web app that reads and displays data from brokerage notes of the stock market.
+ - [Leitor De Notas](https://github.com/cvscarlos/Leitor-De-Notas): the interface of a web app that reads and displays data from brokerage notes of the stock market;
+ - [Vtex Facebook Pixel App](https://github.com/cvscarlos/Vtex-Facebook-Pixel): an app for Vtex Ecommerce platform to easily install FB Pixel tracker.
 
 ## Projects for fun 🎮
 
