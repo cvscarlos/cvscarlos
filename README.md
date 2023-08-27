@@ -29,8 +29,6 @@ A few years ago, while working in the VTEX environment, I open-sourced some plug
 
 The code is now outdated and the repositories haven't received updates for a long time. However, before judging the code, please consider that we had to support Internet Explorer 6 back then 😅
 
-I'm still interested in developing for VTEX. If you would like to contribute something open-source for VTEX, please contact me by opening an issue in any repository.
-
 **Repositories list:**
 - [QD Infinity Scroll](https://github.com/cvscarlos/QD-Infinity-Scroll): a jQuery plugin to automatically load the next page when scrolling down on pages with pagination;
 - [VTEX Cores Prateleira](https://github.com/cvscarlos/VTEX-Cores-Prateleira): a jQuery plugin that displays all SKUs of a product on the shelf and makes it interactive;
