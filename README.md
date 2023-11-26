@@ -1,13 +1,16 @@
 <h1 align="center">Hi there 👋</h1>
 
-How about knowing more about what I'm sharing here on GitHub? So I put together a list of links to some of my public repositories.
+How about knowing more about what I'm sharing here on GitHub?
 
-It's more organized than just browsing on the Repositories page 😄
+So I put together a list of links to some of my public repositories. It's more organized than just browsing on the Repositories page 😄
 
-## Current project 🚀
- - [B3 Stock Exchange API](https://github.com/cvscarlos/b3-api-dados-historicos): Historical quotes data in a free JSON file based API;
- - [Leitor De Notas](https://github.com/cvscarlos/Leitor-De-Notas): the interface of a web app that reads and displays data from brokerage notes of the stock market;
- - [Vtex Facebook Pixel App](https://github.com/cvscarlos/Vtex-Facebook-Pixel): an app for Vtex Ecommerce platform to easily install FB Pixel tracker.
+
+## Current projects 🚀
+
+- [B3 Stock Exchange API](https://github.com/cvscarlos/b3-api-dados-historicos): Historical quotes data in a free JSON file based API;
+- [Leitor De Notas](https://github.com/cvscarlos/Leitor-De-Notas): the interface of a web app that reads and displays data from brokerage notes of the stock market;
+- [Vtex Facebook Pixel App](https://github.com/cvscarlos/Vtex-Facebook-Pixel): an app for Vtex Ecommerce platform to easily install FB Pixel tracker.
+
 
 ## Projects for fun 🎮
 
@@ -15,6 +18,7 @@ It's more organized than just browsing on the Repositories page 😄
 - [Wordpress Flickr Theme](https://github.com/cvscarlos/Wordpress-Flickr-Theme): a Wordpress theme for Flickr photographers;
 - [VakaPHP](https://github.com/cvscarlos/VaKaPHP): a long time ago, I decided to create my own PHP framework;
 - [jQuery Keyboard Code](https://github.com/cvscarlos/jQuery-Keyboard-Code): a jQuery plugin that calls a function when the Konami Code is typed or any other set key sequence;
+
 
 ## Open Source contributions 🤝
 
@@ -24,9 +28,10 @@ It's more organized than just browsing on the Repositories page 😄
 - [eslint-config](https://github.com/parcelLab/eslint-config): helped to create ESLint rules for both TypeScript and JavaScript.
 
 
-## Open Source for [VTEX](https://vtex.com/) Plataform 🛍️
 
-A few years ago, while working in the VTEX environment, I open-sourced some plugins that we used during our development process.
+## Open Source for VTEX Plataform 🛍️
+
+A few years ago, while working in the [VTEX environment](https://vtex.com/), I open-sourced some plugins that we used during our development process.
 
 The code is now outdated and the repositories haven't received updates for a long time. However, before judging the code, please consider that we had to support Internet Explorer 6 back then 😅
 
