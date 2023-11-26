@@ -1,10 +1,11 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
-Maybe you are interested in knowing more about what I'm sharing here on GitHub, so I put together a list of links to some of my public repositories.
+How about knowing more about what I'm sharing here on GitHub? So I put together a list of links to some of my public repositories.
 
-It's a bit more organized than just browsing on the Repositories page 😄
+It's more organized than just browsing on the Repositories page 😄
 
 ## Current project 🚀
+ - [B3 Stock Exchange API](https://github.com/cvscarlos/b3-api-dados-historicos): Historical quotes data in a free JSON file based API;
  - [Leitor De Notas](https://github.com/cvscarlos/Leitor-De-Notas): the interface of a web app that reads and displays data from brokerage notes of the stock market;
  - [Vtex Facebook Pixel App](https://github.com/cvscarlos/Vtex-Facebook-Pixel): an app for Vtex Ecommerce platform to easily install FB Pixel tracker.
 
