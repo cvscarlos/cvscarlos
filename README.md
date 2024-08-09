@@ -8,12 +8,13 @@ So I put together a list of links to some of my public repositories. It's more o
 ## Current projects 🚀
 
 - [B3 Stock Exchange API](https://github.com/cvscarlos/b3-api-dados-historicos): Historical quotes data in a free JSON file based API;
-- [Leitor De Notas](https://github.com/cvscarlos/Leitor-De-Notas): the interface of a web app that reads and displays data from brokerage notes of the stock market;
-- [Vtex Facebook Pixel App](https://github.com/cvscarlos/Vtex-Facebook-Pixel): an app for Vtex Ecommerce platform to easily install FB Pixel tracker.
+- [Leitor De Notas](https://github.com/cvscarlos/Leitor-De-Notas): the interface of a web app that reads and displays data from brokerage notes of the stock market.
 
 
 ## Projects for fun 🎮
 
+- [OAuth Provider Demo](https://github.com/cvscarlos/OAuth-Provider-Demo): a demo OAuth provider that you can use to test your client applications;
+- [Vtex Facebook Pixel App](https://github.com/cvscarlos/Vtex-Facebook-Pixel): an app for Vtex Ecommerce platform to easily install FB Pixel tracker;
 - [iCloud Album Downloader](https://github.com/cvscarlos/iCloud-Album-Downloader): a web app for downloading photos from public shared iCloud albums;
 - [Wordpress Flickr Theme](https://github.com/cvscarlos/Wordpress-Flickr-Theme): a Wordpress theme for Flickr photographers;
 - [VakaPHP](https://github.com/cvscarlos/VaKaPHP): a long time ago, I decided to create my own PHP framework;
