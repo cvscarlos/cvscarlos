@@ -8,7 +8,8 @@ So I put together a list of links to some of my public repositories. It's more o
 ## Current projects 🚀
 
 - [B3 Stock Exchange API](https://github.com/cvscarlos/b3-api-dados-historicos): Historical quotes data in a free JSON file based API;
-- [Leitor De Notas](https://github.com/cvscarlos/Leitor-De-Notas): the interface of a web app that reads and displays data from brokerage notes of the stock market.
+- [Leitor De Notas](https://github.com/cvscarlos/Leitor-De-Notas): the interface of a web app that reads and displays data from brokerage notes of the stock market;
+- [SafeLink Verifier](https://github.com/cvscarlos/Safe-Link-Checker): A free tool to check if links are safe.
 
 
 ## Projects for fun 🎮
